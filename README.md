@@ -1,4 +1,4 @@
-# 🔐 Cybersecurity Lab
+# Cybersecurity Lab
 
 A hands-on cybersecurity laboratory built to develop practical skills in network security, system security, SOC operations, cloud security, and penetration testing.
 

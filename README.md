@@ -6,23 +6,23 @@ This repository documents my learning journey through practical labs, experiment
 
 ---
 
-## 👨‍💻 Who I Am
+## Who I Am
 
 Hi, I'm Youssef Oudra, a Cybersecurity Engineering student at ENSIASD passionate about:
 
-- 🔐 Cybersecurity
-- 🌐 Network Security
-- 🖥️ Linux & Windows Security
-- 🛡️ SOC & Blue Team Operations
-- ☁️ Cloud Security
-- 🔎 Threat Detection & Incident Response
-- 🧪 Ethical Hacking & Penetration Testing
+- Cybersecurity
+- Network Security
+- Linux & Windows Security
+- SOC & Blue Team Operations
+- Cloud Security
+- Threat Detection & Incident Response
+- Ethical Hacking & Penetration Testing
 
 I'm currently building hands-on cybersecurity projects to strengthen my technical skills and gain experience with real-world security concepts and tools.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 The main objectives of this lab are to:
 
@@ -39,7 +39,7 @@ The main objectives of this lab are to:
 
 ---
 
-## 🗺️ Learning Roadmap
+## Learning Roadmap
 
 ### Phase 1 — Security Foundations
 
@@ -111,9 +111,9 @@ The main objectives of this lab are to:
 
 ---
 
-## 🧪 Labs & Projects
+## Labs & Projects
 
-### 🛡️ 1. Mini SOC
+### 1. Mini SOC
 
 Building a small Security Operations Center using:
 
@@ -134,7 +134,7 @@ Objectives:
 
 ---
 
-### 🖥️ 2. Windows Security Lab
+### 2. Windows Security Lab
 
 Topics:
 
@@ -147,7 +147,7 @@ Topics:
 
 ---
 
-### 🐧 3. Linux Security Lab
+### 3. Linux Security Lab
 
 Topics:
 
@@ -161,7 +161,7 @@ Topics:
 
 ---
 
-### 🌐 4. Network Security Lab
+### 4. Network Security Lab
 
 Topics:
 
@@ -175,7 +175,7 @@ Topics:
 
 ---
 
-### 🌐 5. Web Security Lab
+### 5. Web Security Lab
 
 Using intentionally vulnerable applications to study:
 
@@ -188,7 +188,7 @@ Using intentionally vulnerable applications to study:
 
 ---
 
-### ☁️ 6. Azure Security Lab
+### 6. Azure Security Lab
 
 Topics:
 
@@ -202,7 +202,7 @@ Topics:
 
 ---
 
-### 🚨 7. Incident Response Labs
+### 7. Incident Response Labs
 
 Simulated security incidents involving:
 
@@ -219,7 +219,7 @@ Each incident will follow:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 Cybersecurity-Lab/
